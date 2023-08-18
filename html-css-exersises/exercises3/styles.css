@@ -1,0 +1,104 @@
+.header {
+	text-align: center;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	display: flex;
+	flex-direction: row;
+	float: right;
+	text-decoration: none;
+	list-style-type: none;
+}
+.herder .headerli {
+	padding: 10px;
+	margin: 10px;
+}
+.headerli a {
+	text-decoration: none;
+	color: black;
+}
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 90%;
+	margin: 70px;
+}
+.conteiner img {
+	padding: 100px;
+	padding-top: 100px;
+	margin-top: 300px;
+}
+.search-area {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.search {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+.input-enter {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+.input-area {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 40%;
+	border: 1px solid black;
+	border-radius: 35px;
+}
+.search-area input {
+	width: 90%;
+	height: 30px;
+	border: none;
+}
+.buttons {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	margin: 25px;
+	padding: 5px;
+}
+.buttons:hover {
+	cursor: pointer;
+}
+.googlesearch {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-right: 10px;
+	height: 30px;
+	padding: 20px;
+}
+.googlesearch:hover {
+	cursor: pointer;
+}
+.googlesearch a {
+	text-decoration: none;
+	color: black;
+}
+.feelinglucky {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	height: 30px;
+	padding: 20px;
+}
+.feelinglucky:hover {
+	cursor: pointer;
+}
+.feelinglucky a {
+	text-decoration: none;
+	color: black;
+}
+img {
+	cursor: pointer;
+}

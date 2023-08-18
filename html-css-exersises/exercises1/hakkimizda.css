@@ -1,0 +1,23 @@
+.ilk {
+	text-align: center;
+}
+.liste {
+	display: inline-block;
+	margin: 0 10px;
+	list-style-type: none;
+}
+h1 {
+	font-size: 40px;
+	color: #d30c0c;
+}
+h2 {
+	font-size: 35px;
+	color: #c26666;
+}
+h3 {
+	font-size: 25px;
+	color: #dcce10;
+}
+p {
+	font-size: 20px;
+}
